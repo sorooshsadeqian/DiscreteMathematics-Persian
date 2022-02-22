@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[LOC](https://OpenBookshelf.github.io/DiscreteMathematics-Persian/Contents/loc.md)
+[LOC](Contents/loc.md)
 
 You can use the [editor on GitHub](https://github.com/OpenBookshelf/DiscreteMathematics-Persian/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
